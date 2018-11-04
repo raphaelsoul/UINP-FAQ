@@ -8,5 +8,15 @@
     "question": "What scenarios do UINP have?",
     "answer": "1.Dapp migration\r\n2.digital assets cross-chain transaction/distributed liquidation.\r\n3.Smart contract Cross-chain invocation\r\n4. Cross-chain information invocation",
     "parseMode": "raw"
+  },
+  {
+    "question": "What makes UINP so special?",
+    "answer": "The world’s first double-layer(transport layer & application layer) cross-chain protocol，it can be realized the transmission of different types of data between different blockchain network. This is not possible with existing cross - chain technology.What’s more,PoU consensus can balance security, efficiency, scalability etc.",
+    "parseMode": "raw"
+  },
+  {
+    "question": "How many full-time and part-time team members in UINP now? ",
+    "answer": "Now there are over 15 Full-time and part time employees in UINP.",
+    "parseMode": "raw"
   }
 ]
