@@ -18,5 +18,30 @@
     "question": "How many full-time and part-time team members in UINP now? ",
     "answer": "Now there are over 15 Full-time and part time employees in UINP.",
     "parseMode": "raw"
+  },
+  {
+    "question": "Does UINP has its DEMO now?",
+    "answer": "Not yet. We’ll inform you later on official website/twitter/facebook/telegram.",
+    "parseMode": "raw"
+  },
+  {
+    "question": "What is cross chain?",
+    "answer": "\"cross-chain\" refers to the technical means to achieve the interaction, migration, transportation, circulation of data and value between different chains.",
+    "parseMode": "raw"
+  },
+  {
+    "question": "What type of transactions can UINP make?",
+    "answer": "A2A：Assets	to Assets. For	example,	the assets of ETH Smart Contract to the EOS Smart Contract\r\nA2P：Assets	to Prevalence. For	example,	the assets of ETH Smart Contract to BTC.\r\nP2A：Prevalence to Assets.	For example,	the assets of BTC	to TRX Smart Contract.	\r\nP2P：Prevalence to Prevalence. For example,	the exchange of EOS and NEO.",
+    "parseMode": "raw"
+  },
+  {
+    "question": "Is there any partnership plan? ",
+    "answer": "Follow types of partnerships is that UINP needed: \r\n - Public chains\r\n - Consortium chains\r\n - private chains\r\n - DApp development institutions.\r\n - Academic Institutions. \r\n - Tech Geek\r\n",
+    "parseMode": "raw"
+  },
+  {
+    "question": "What are UINP’s ecological participants within the network?",
+    "answer": "UINP have network node, parliament, foundation and network users & token holders. \r\nNetwork nodes access to UINP network by pledge coins. They are responsible for transfer and verify information. \r\nParliament nodes are members of parliament. They are chosen by token holders and responsible for monitor and adjust the whole network. \r\nFoundation is built to establish and maintain UINP ecosystem. \r\nNetwork users & token holders can vote for parliament members and foundation members.",
+    "parseMode": "raw"
   }
 ]
