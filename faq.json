@@ -31,7 +31,7 @@
   },
   {
     "question": "What type of transactions can UINP make?",
-    "answer": "A2A：Assets	to Assets. For	example,	the assets of ETH Smart Contract to the EOS Smart Contract\r\nA2P：Assets	to Prevalence. For	example,	the assets of ETH Smart Contract to BTC.\r\nP2A：Prevalence to Assets.	For example,	the assets of BTC	to TRX Smart Contract.	\r\nP2P：Prevalence to Prevalence. For example,	the exchange of EOS and NEO.",
+    "answer": "A2A:Assets to Assets. For example, the assets of ETH Smart Contract to the EOS Smart Contract \r\n A2P：Assets to Prevalence. For example, the assets of ETH Smart Contract to BTC. \r\n P2A：Prevalence to Assets. For example, the assets of BTC to TRX Smart Contract. \r\n P2P：Prevalence to Prevalence. For example, the exchange of EOS and NEO.",
     "parseMode": "raw"
   },
   {
